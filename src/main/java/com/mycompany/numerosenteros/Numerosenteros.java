@@ -41,7 +41,7 @@ package com.mycompany.numerosenteros;
                               
                             }
                                System.out.println("Numeros:"+ " " + n); 
-                               System.out.println("sumatoria:"+ " " + suma); 
+                               System.out.println("sumatoria Total:"+ " " + suma); 
                              
                   
          
